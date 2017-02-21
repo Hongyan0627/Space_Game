@@ -3,6 +3,6 @@ This repo contains an implementation of Spaceship game, which is a project for F
 You can play the game [here](http://www.codeskulptor.org/#user38_At8gBZYhDC_1.py)
 
 
-![MacDown logo](/Users/hongyanwang/OneDrive/My_Github/Space_Game/figure1.png)
+![](./figure1.png?raw=true)
 
-![MacDown logo](/Users/hongyanwang/OneDrive/My_Github/Space_Game/figure2.png)
+![](./figure2.png?raw=true)
